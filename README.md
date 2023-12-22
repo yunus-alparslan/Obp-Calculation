@@ -11,8 +11,3 @@ English
 
 ##  Ekran Görüntüleri / Screen 
 <img width="788" alt="Ekran Resmi 2023-12-22 18 57 08" src="https://github.com/yunus-alparslan/Obp-Calculation/assets/99866054/a67de7b0-42e5-4ab4-8a75-2a50c8378236">
-
-  
-## Kullanılan Teknolojiler
-
-**Kullanılanlar:** Swift, StoryBoard
